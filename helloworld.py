@@ -1,4 +1,4 @@
-peint('Basic Calculator')
+print('Basic Calculator')
 # กำหนดค่าตัวเลข
 num1 = 15
 num2 = 20
