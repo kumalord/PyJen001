@@ -3,7 +3,7 @@ pipeline {
 
     environment {
         VENV_DIR   = 'venv'
-        DEPLOY_DIR = 'C:\\ws\\Python0001-main'
+        DEPLOY_DIR = 'C:\\ws\\Jenkins2'
         PYTHON_EXE = 'C:\\Users\\ruru\\AppData\\Local\\Python\\pythoncore-3.14-64\\python.exe'
     }
 
