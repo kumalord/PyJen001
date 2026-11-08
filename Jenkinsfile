@@ -19,7 +19,7 @@ pipeline {
     stages {
         stage('Checkout') {
             steps {
-                git branch: 'main', url: 'https://github.com/kumalord/Python0001'
+                git branch: 'main', url: 'https://github.com/kumalord/PyJen001'
             }
         }
 
