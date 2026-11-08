@@ -1,3 +1,4 @@
+peint('Basic Calculator')
 # กำหนดค่าตัวเลข
 num1 = 15
 num2 = 20
