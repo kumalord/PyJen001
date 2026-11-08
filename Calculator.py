@@ -4,4 +4,5 @@ num2 = 20
 
 result = num1 + num2
 
-print(" result='num1 num2  result")
+# แก้ไขบรรทัดนี้โดยใช้ f-string (เติม f หน้าข้อความและใส่ {} ครอบตัวแปร)
+print(f"result = {num1} + {num2} = {result}")
